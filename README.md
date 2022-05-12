@@ -8,6 +8,7 @@ The purpose of this project was to create a Form with Javascript validation.
 
 - HTML5;
 - CSS3;
+- Javascript;
 
 <br/><br/>
 
